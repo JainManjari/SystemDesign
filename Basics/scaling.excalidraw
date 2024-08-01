@@ -1,0 +1,49 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "id": "kTdc1dxGeFlKUUgojnAOb",
+      "type": "text",
+      "x": 308.41015625,
+      "y": -115.81640625,
+      "width": 771.6593017578125,
+      "height": 1150,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "ai",
+      "roundness": null,
+      "seed": 2003571342,
+      "version": 1328,
+      "versionNonce": 672227086,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1721543177000,
+      "link": null,
+      "locked": false,
+      "text": "Scaling\n\n\nVertical Scaling - Why it doesn't work?\nOne big machine\n1. While you are reaching to the limit, it will cost expensive.\n2. Ultimately you are going to hit the limit.\n3. Single point of failure.\n4. Bottlenecks: if one big machine receives requests more than it\n                can handle, then entire system is slowed down.\n5. More downtime : If one machine needs to be upgraded, then\n                   entire system is shut down.\n\n\n\nHorizontal Scaling \nAdding weaker machines to the system.\n\nPros:\n1. Removing single point of failure.\n2. Cheaper\n3. No bottlenecks.\n4. Less overall downtime\n\nCons of horizontal scaling.\n1. increase complexity - how to route requests evenly across multiple servers \n                       without overloading single server. \n  Solution: Use load balancer with heartbeat system.\n\n2. Devops burdern: when one server needs to be upgraded, then how do you\n                   drain the traffic coming for that server and transfer it\n                   to other servers.\n\n\n\nTypes of horizontal scaling:\n1. Replication - Database and multiple instances of services.\n2. Partition - Database \n\n\n\n\n\n\n\n",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Scaling\n\n\nVertical Scaling - Why it doesn't work?\nOne big machine\n1. While you are reaching to the limit, it will cost expensive.\n2. Ultimately you are going to hit the limit.\n3. Single point of failure.\n4. Bottlenecks: if one big machine receives requests more than it\n                can handle, then entire system is slowed down.\n5. More downtime : If one machine needs to be upgraded, then\n                   entire system is shut down.\n\n\n\nHorizontal Scaling \nAdding weaker machines to the system.\n\nPros:\n1. Removing single point of failure.\n2. Cheaper\n3. No bottlenecks.\n4. Less overall downtime\n\nCons of horizontal scaling.\n1. increase complexity - how to route requests evenly across multiple servers \n                       without overloading single server. \n  Solution: Use load balancer with heartbeat system.\n\n2. Devops burdern: when one server needs to be upgraded, then how do you\n                   drain the traffic coming for that server and transfer it\n                   to other servers.\n\n\n\nTypes of horizontal scaling:\n1. Replication - Database and multiple instances of services.\n2. Partition - Database \n\n\n\n\n\n\n\n",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}

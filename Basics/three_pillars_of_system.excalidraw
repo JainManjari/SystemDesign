@@ -1,0 +1,49 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "id": "TKPShmWY4ZyIVBGSCfpMG",
+      "type": "text",
+      "x": 296.0078125,
+      "y": -48.73046875,
+      "width": 700.699462890625,
+      "height": 700,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "ag",
+      "roundness": null,
+      "seed": 190783378,
+      "version": 884,
+      "versionNonce": 13778958,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1721541164344,
+      "link": null,
+      "locked": false,
+      "text": "3 Pillars of System's Success\n1. Reliability - system can go on in case of any faults.\n  faults such as:\n  a) hardware (hard-drive stopped working), \n  b) software (buggy - code, incorrect testing etc.,.), \n  c) network (Wifi uanvailable) \n  d) and human\n\n2. Scalability - Ability for your system to handle increased volumne\n   in requests or data and still maintains the expected \n   performance.\n\n   a) Vertical Scaling => add more RAM, CPU etc.,.\n      Horizontal Scaling => add more instances of servers\n\n\n   b) Converting monolith (high chances of being single point of failure) \n   to microservices.\n\n   c) Database Partitioning \n\n3. Performance: Ability of system to execute tasks assigned to it.\n\n \n\n\n \n ",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "3 Pillars of System's Success\n1. Reliability - system can go on in case of any faults.\n  faults such as:\n  a) hardware (hard-drive stopped working), \n  b) software (buggy - code, incorrect testing etc.,.), \n  c) network (Wifi uanvailable) \n  d) and human\n\n2. Scalability - Ability for your system to handle increased volumne\n   in requests or data and still maintains the expected \n   performance.\n\n   a) Vertical Scaling => add more RAM, CPU etc.,.\n      Horizontal Scaling => add more instances of servers\n\n\n   b) Converting monolith (high chances of being single point of failure) \n   to microservices.\n\n   c) Database Partitioning \n\n3. Performance: Ability of system to execute tasks assigned to it.\n\n \n\n\n \n ",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}

@@ -1,0 +1,49 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "type": "text",
+      "version": 677,
+      "versionNonce": 1023464063,
+      "index": "beh",
+      "isDeleted": false,
+      "id": "sV_vIjXv7aMfAVKGU4zox",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 325.6640625,
+      "y": -134.16796875,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 810.7392578125,
+      "height": 625,
+      "seed": 891234770,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1722494489782,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "Database Partitioning\n\n1. If the data in your database becomes too big \nto fit into the machine.\n2. If your query is complex and response time is slower.\n\n\nDatabase partitioning\nThe process of breaking a database into smaller databases\nis called partitioning or sharding, where each piece is called\npartition or shard.\n\n\nPartitioning is often used with replication.\n\n\n\nEach node's objective:\n\n1. To have relatively same amount of data.\n2. To have relatively same no of reads and writes\n\n\nif, we are not able to achieve this, then other nodes might be overloaded: leading\nto hot partition.",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Database Partitioning\n\n1. If the data in your database becomes too big \nto fit into the machine.\n2. If your query is complex and response time is slower.\n\n\nDatabase partitioning\nThe process of breaking a database into smaller databases\nis called partitioning or sharding, where each piece is called\npartition or shard.\n\n\nPartitioning is often used with replication.\n\n\n\nEach node's objective:\n\n1. To have relatively same amount of data.\n2. To have relatively same no of reads and writes\n\n\nif, we are not able to achieve this, then other nodes might be overloaded: leading\nto hot partition.",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
