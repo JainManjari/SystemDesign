@@ -1,0 +1,51 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "id": "ZnkWsRipv-TsPyTgKGfCd",
+      "type": "text",
+      "x": 549.91796875,
+      "y": 201.1328125,
+      "width": 788.0594482421875,
+      "height": 375,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "c0Sk",
+      "roundness": null,
+      "seed": 1602590774,
+      "version": 593,
+      "versionNonce": 1630127030,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1724811301559,
+      "link": null,
+      "locked": false,
+      "text": "Partition\nIt refers to splitting of a table into smaller parts in a single database instance.\nThus, improving performance of complex queries.\n\n\n\nSharding\nIt refers to splitting of data across multiple databases and multiple servers.\nProvides support for scaling large-scale apps and horizontal scaling.\n\n\n\nReplication\nIt refers to making copies of data across multiple databases or multiple servers\nto ensure high availability, fault tolerance and read scalibility",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Partition\nIt refers to splitting of a table into smaller parts in a single database instance.\nThus, improving performance of complex queries.\n\n\n\nSharding\nIt refers to splitting of data across multiple databases and multiple servers.\nProvides support for scaling large-scale apps and horizontal scaling.\n\n\n\nReplication\nIt refers to making copies of data across multiple databases or multiple servers\nto ensure high availability, fault tolerance and read scalibility",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
